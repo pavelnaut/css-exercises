@@ -30,7 +30,7 @@ a {
   padding: 8px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 ul {
